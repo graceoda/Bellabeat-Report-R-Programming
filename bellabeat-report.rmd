@@ -1,4 +1,3 @@
-# %% [code]
 ---
 title: "Bellabeat R Programming"
 author: "Grace Oda"
